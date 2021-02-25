@@ -4,10 +4,9 @@
 
 [\[Competition Page\]](https://www.kaggle.com/c/hallym-2020-2-aicomp02)<br>
 ![img1](./img1.PNG)
-<br>
-
 ![img2](./img2.PNG)
-## Private Leaderboard : 1st (NAME : useung)
+
+## Private Leaderboard : 1st (Name : useung)
 
 [\[Solution 참고\]](./solution_track02_report.pdf)<br>
 
