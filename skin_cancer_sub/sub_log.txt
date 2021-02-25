@@ -1,0 +1,18 @@
+83.667 - efficientNet b3  lr - 0.0001 ep 10
+
+
+*************************************************************************************************************************
+84.527 - efficientNet b3 / lr - 0.0001 / ep 10 / 
+transforms(resize(320,320), CenterCrop(280,280), RandomHorizontalFlip, RandomVerticalFlip, RandomRotation(10) /
+param.require_grad = True(이전 레이어 전체 학습)
+data loader : train - batchsize 32 , val - batchsize 8
+
+dataset - image preprocessing(이미지 라운드를 통해 특징점에 더 집중할 수 있도록 데이터 증강)
+
+
+Best acc : 0.8574
+Evaluation
+Avg loss(test) : 0.0479
+Avg acc(test) : 0.8702
+
+****************************************************************************************************************************
